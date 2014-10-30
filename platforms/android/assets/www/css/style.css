@@ -1,0 +1,15 @@
+#DOM li {
+	
+	border-bottom: 1px solid #303030; 
+	padding : 8px;
+	list-style-type: none;
+
+}
+#DOM li:hover {
+	background-color: #eee;
+
+}
+
+#DOM li:last-child {
+	border-bottom: 1px solid #eee;
+}
